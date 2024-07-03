@@ -28,3 +28,15 @@ export enum USER_ROLES {
     EMPLOYER="EMPLOYER",
     PUNISHED="PUNISHED"
 }
+
+export enum KEY_CATEGORIES {
+    PJ="PROJETOS",
+    EX="EXERCICIOS",
+    CH="CHALLANGES",
+    TP="PRATICAS",
+    FX="FIXACAO",
+    MX="MODULO",
+    NB="NOTEBOOK",
+    SP="SNIPPET",
+    TK="TASK"
+}
